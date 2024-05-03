@@ -30,7 +30,7 @@ VaveToCompare = []
 try:
     shot = int(sys.argv[1])
 except:
-    shot =  41279 #39233 #30 #29 #40172 #40043 #39649
+    shot =  41279 #39233 #30 #29 #40172 #40043 
 print(shot)
 sigs = {} 
 
